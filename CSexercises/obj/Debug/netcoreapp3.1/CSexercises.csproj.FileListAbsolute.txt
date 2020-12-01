@@ -1,0 +1,13 @@
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.exe
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.deps.json
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.runtimeconfig.json
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.runtimeconfig.dev.json
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.dll
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\bin\Debug\netcoreapp3.1\CSexercises.pdb
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.csprojAssemblyReference.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.AssemblyInfoInputs.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.AssemblyInfo.cs
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.csproj.CoreCompileInputs.cache
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.dll
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.pdb
+C:\Users\HenrikBjørnerudRomne\source\repos\CSexercises\CSexercises\obj\Debug\netcoreapp3.1\CSexercises.genruntimeconfig.cache
